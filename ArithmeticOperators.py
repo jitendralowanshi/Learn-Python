@@ -1,6 +1,6 @@
 a = 5
 b = 2
-
+# my name is jitendra lowanshi and my friend id ankit yadav
 # Arithmetic Operators
 print("sum =", a+b)
 print("substration = ", a-b)
