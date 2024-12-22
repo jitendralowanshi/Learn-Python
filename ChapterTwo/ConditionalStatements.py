@@ -7,7 +7,7 @@ if (18 <=age <30):
 elif(age >= 30):                 #this is like else-if 
     print("you can go everywere")
 
-elif(age>= 50):
+elif(age >= 50):
     print("your pans=tion is on because you are old man")
 
 else:
