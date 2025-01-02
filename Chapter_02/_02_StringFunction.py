@@ -25,5 +25,6 @@ print(str.count("am"))   #this function count word exist in our variable
 
 # first practice quetion
 name = input("Enter Your first name ")
+
 # length = len(name)
 print("your length is : ",len(name))
