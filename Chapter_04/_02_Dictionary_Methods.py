@@ -50,3 +50,4 @@ print(student)
 new_dict = {"name" : "jitendra lowanshi", "age": 24 }
 student.update(new_dict)
 print(student)
+print("\n")
