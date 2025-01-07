@@ -3,6 +3,7 @@
 # duplicate values are not allowed in set
 
 #  How to create empty set
+
 # empty set  syntex 
 collection = set()
 print(type(collection))
@@ -14,7 +15,7 @@ print(collection)
 print("\n")
 
 
-
+# set 
 set = {1, 1, 2, 2, 3, 4, 5, "hello", "world", 5, 4}
 print(set)
 print(type(set))

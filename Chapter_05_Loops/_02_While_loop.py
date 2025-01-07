@@ -43,3 +43,7 @@ while j < len(tup) :
         print("finding x ")
 
     j += 1
+
+
+
+# practice some of 

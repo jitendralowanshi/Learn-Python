@@ -13,7 +13,7 @@ print("\n")
 # CONTINUE 
 j = 0
 while j <= 10 :
-    if (j == 5) :
+    if (j == 5) :     # (j%2 == 0) even num
         print("skip ")
         j += 1
         continue
