@@ -27,5 +27,4 @@ def sumOfN(n):
     return sumOfN(n-1) + n
     
 # call sumOfN Numver
-
 print(sumOfN(9))
