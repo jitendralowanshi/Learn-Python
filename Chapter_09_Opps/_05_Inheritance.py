@@ -1,5 +1,6 @@
 '''
-three types inheritance in python
+Types of Inheritance
+
 1>  Single Inheritance
 2>  Multi-level Inheritance
 3>  multiple Inheritance
