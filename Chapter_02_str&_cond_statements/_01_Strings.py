@@ -6,7 +6,6 @@ print(str2)
 
 print("\n")
 
-# concatinating two strings 
 s1 = "Hello"
 s2 = "World"
 
@@ -24,5 +23,5 @@ print("Length is : ", stringlen)
 
 str = "jitendr lowanshi"
 ch = str[1]
-print(ch)
+print("charater is the postion on : ", ch)
 #status

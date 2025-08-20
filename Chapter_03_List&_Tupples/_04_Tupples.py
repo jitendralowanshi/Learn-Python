@@ -14,11 +14,12 @@ print("\n")
 
 
 # TWO TUPPLES METHOD 
-# index(ele) --> return index of first occurence
-ans = tup1.index(4)
-print(ans)
+# index(ele) --> return index of first occurence  
+#this method find pahle kon se index pr element aa rha hai 
+ans = tup1.index(3)
+print("ans index is ", ans)
 
 
 # count(ele) --> count total occurences 
 count = tup1.count(2)
-print(count)
+print("count occurencd ",count)
